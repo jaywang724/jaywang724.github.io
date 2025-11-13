@@ -47,7 +47,6 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
       <strong>Vision-Language-Policy Model for Dynamic Robot Task Planning</strong></a><br>
       <strong>Jin Wang</strong>, Kim Tien Ly, Jacques Cloete, Nikos Tsagarakis, Ioannis Havoutis<br>
       <em>Under review</em>
-      <span style="color:red; font-weight:bold;">Oral</span><br>
     </p>
 
     <p>
