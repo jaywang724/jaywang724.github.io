@@ -32,6 +32,32 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 # Research
 ## Featured Publications
 
+  <!-- VLP -->
+  <div style="flex: 1; padding-right: 20px;">
+    <a href="https://robovlp.github.io/">
+      <video playsinline autoplay loop muted src="assets/video/vlp.mp4" poster="assets/img/research/intention_web.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    </a>
+  </div>
+
+  <!-- 右侧：论文信息 -->
+  <div style="flex: 1;">
+    <p><a href="https://robovlp.github.io/" id="INTENTION">
+      <strong>Vision-Language-Policy Model for Dynamic Robot Task Planning</strong></a><br>
+      <strong>Jin Wang</strong>, Kim Tien Ly, Jacques Cloete, Nikos Tsagarakis, Ioannis Havoutis<br>
+      <em>Under review</em>
+      <span style="color:red; font-weight:bold;">Oral</span><br>
+    </p>
+
+    <p>
+      <a href="https://robovlp.github.io/">webpage</a> |
+      <a href="https://robovlp.github.io/">pdf</a> |
+      <a href="https://robovlp.github.io/">arXiv</a> |
+      <a href="https://robovlp.github.io/">code</a> |
+      <a href="https://robovlp.github.io/">video</a>
+    </p>
+
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
@@ -48,6 +74,9 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
       <strong>Thinking-with-Memory: Empowering Robots with Transferable Embodied Cognition</strong></a><br>
       <strong>Jin Wang</strong>, Nikos Tsagarakis<br>
       <em>Under Review</em><br>
+    </p>
+    <p>
+      <a href="https://youtu.be/VUyRaD5ys6U">video</a>
     </p>
   </div>
 </div>
@@ -124,7 +153,7 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
     <p><a href="https://boyuandeng.github.io/L2R-WheelLegCoordination/" id="RECOVER">
       <strong>Learning to Recover: Dynamic Reward Shaping with Wheel-Leg Coordination for Fallen Robots</strong></a><br>
       Boyuan Deng, Luca Rossini, <strong>Jin Wang</strong>, Weijie Wang, Nikos Tsagarakis<br>
-      <em><strong>arXiv</strong></em><br>
+      <em><strong>Under review</strong></em><br>
     </p>
 
     <p>
