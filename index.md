@@ -32,7 +32,9 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 # Research
 ## Featured Publications
 
-  <!-- VLP -->
+<!-- VLP -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://robovlp.github.io/">
       <video playsinline autoplay loop muted src="assets/video/vlp.mp4" poster="assets/img/research/intention_web.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
@@ -59,9 +61,10 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
   </div>
 </div>
 
+<!-- aurora -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
-  <!-- aurora -->
+  
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://robo-intention.github.io/">
       <video playsinline autoplay loop muted src="assets/img/research/aurora.png" poster="assets/img/research/aurora.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
@@ -81,9 +84,10 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
   </div>
 </div>
 
+ <!-- Intention -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
-  <!-- Intention -->
+ 
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://robo-intention.github.io/">
       <video playsinline autoplay loop muted src="assets/video/intention_web.mp4" poster="assets/img/research/intention_web.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
@@ -110,9 +114,11 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
   </div>
 </div>
 
+
+<!-- RoboNurse -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
-  <!-- RoboNurse -->
+  
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://robonurse-vla.github.io/">
       <video playsinline autoplay loop muted src="assets/video/robonurse.mp4" poster="assets/img/research/robonurse.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
@@ -139,9 +145,11 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
   </div>
 </div>
 
+
+<!-- Recovery -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
-  <!-- Recovery -->
+  
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://boyuandeng.github.io/L2R-WheelLegCoordination/">
       <video playsinline autoplay loop muted src="assets/video/recovery.png" poster="assets/img/research/recovery.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
@@ -168,9 +176,10 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 </div>
 
 
+<!-- Hymotion -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
-  <!-- Hymotion -->
+  
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://hy-motion.github.io/">
       <video playsinline autoplay loop muted src="assets/video/hymotion.mp4" poster="assets/img/research/hymotion.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
@@ -197,9 +206,10 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 </div>
 
 
+<!-- IROS24 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
-  <!-- IROS24 -->
+  
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://arxiv.org/abs/2408.08282">
       <video playsinline autoplay loop muted src="assets/video/iros2024.mp4" poster="assets/img/research/iros2024.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
@@ -225,6 +235,7 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
   </div>
 </div>
 
+ <!--ICRA40 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
   <!-- 左侧：论文 GIF 动图 -->
