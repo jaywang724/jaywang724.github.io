@@ -145,6 +145,32 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 </div>
 
 
+<!-- GF-VLA -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  
+  <div style="flex: 1; padding-right: 20px;">
+    <a href="https://arxiv.org/abs/2508.05342">
+      <video playsinline autoplay loop muted src="assets/img/research/gf-vla.png" poster="assets/img/research/gf-vla.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    </a>
+  </div>
+
+  <!-- 右侧：论文信息 -->
+  <div style="flex: 1;">
+    <p><a href="https://arxiv.org/abs/2508.05342" id="GF-VLA">
+      <strong>Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control</strong></a><br>
+      Shunlei Li, Longsen Gao, <strong>Jin Wang</strong>, Chang Che, Xi Xiao, Jiuwen Cao, et.a<br>
+      <em>Information Fusion (To appear)</em>
+    </p>
+
+    <p>
+      <a href="https://arxiv.org/abs/2508.05342">webpage</a> |
+      <a href="https://arxiv.org/pdf/2508.05342">pdf</a> |
+      <a href="https://arxiv.org/pdf/2508.05342">arXiv</a> 
+    </p>
+
+  </div>
+</div>
+
 <!-- Recovery -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
@@ -263,4 +289,40 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 
 # Project
 
-TBD
+<!-- VLP project -->
+<div style="margin-bottom: 40px;">
+  <p><a href="https://robovlp.github.io/" id="VLP">
+    <h2><strong>Visual-Language-Policy Model</strong></h2></a>
+    <span style="font-size: 0.9em;">I trained a Vision-Language-Policy model to generate and update policies for dynamic robotic task planning.</span>
+  </p>
+
+  <a href="https://robovlp.github.io/">
+    <img src="assets/img/project/vlp.png" alt="VLP" 
+         style="width: 100%; max-width: 700px; height: auto; border-radius: 15px; margin-top: 10px; display: block;">
+  </a>
+</div>
+
+<!-- AURORA project -->
+
+<div style="margin-bottom: 40px;">
+  <p><a href="https://www.youtube.com/watch?v=VUyRaD5ys6U">
+    <h2><strong>AURORA: Autonomous Robotic Reactive Adaptation</strong></h2></a>
+    <span style="font-size: 0.9em;">We empowered robots with the ability to utilize episodic memory to guide their manipulation tasks in new scenario with grounded multi-modal foundation models.</span>
+  </p>
+
+  <a href="https://www.youtube.com/watch?v=VUyRaD5ys6U">
+    <img src="assets/img/project/aurora.png" alt="AURORA" 
+         style="width: 100%; max-width: 700px; height: auto; border-radius: 15px; margin-top: 10px; display: block;">
+  </a>
+</div>
+
+<div style="margin-bottom: 40px;">
+  <p><a href="https://robo-intention.github.io/">
+    <h2><strong>INTENTION</strong></h2></a>
+    <span style="font-size: 0.9em;">We enable robots to guide manipulation actions through interactive intuition without requiring verbal commands.</span>
+  </p>
+
+  <a href="https://robo-intention.github.io/">
+    <video playsinline autoplay loop muted src="assets/img/project/refill_tea.mp4" poster="assets/img/project/refill_tea.mp4" alt="Project 3 Placeholder" style="width: 100%; max-width: 700px; height: auto; border-radius: 15px; margin-top: 10px; display: block; object-fit: cover;"></video>
+  </a>
+</div>
