@@ -289,6 +289,19 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 
 # Project
 
+<!-- AURA-OS project -->
+<div style="margin-bottom: 40px;">
+  <p><a href="https://robovlp.github.io/" id="aura-os">
+    <h2><strong>AURA-0S: an Agent-based Robot Operating System</strong></h2></a>
+    <span style="font-size: 0.9em;">We have been developing an Agent-based Robot Operating System to coordinate the invocation of various models (VLA, WAM, VLMs) while prioritizing local deployment and edge-side inference to ensure real-time, reliable humanoid intelligence.</span>
+  </p>
+
+  <a href="https://robovlp.github.io/">
+    <img src="assets/img/project/aura-os.png" alt="aura-os" 
+         style="width: 100%; max-width: 700px; height: auto; border-radius: 15px; margin-top: 10px; display: block;">
+  </a>
+</div>
+
 <!-- VLP project -->
 <div style="margin-bottom: 40px;">
   <p><a href="https://robovlp.github.io/" id="VLP">
