@@ -39,7 +39,7 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
   
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://roboassist.github.io/">
-      <video playsinline autoplay loop muted src="assets/video/interactive_3x.mp4" poster="assets/img/research/intention_web.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+      <video playsinline autoplay loop muted src="assets/video/interactive_3x.mp4" poster="assets/video/interactive_3x.mp4" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
     </a>
   </div>
 
