@@ -32,6 +32,33 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 # Research
 ## Featured Publications
 
+<!-- RoboAssist -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  
+  <div style="flex: 1; padding-right: 20px;">
+    <a href="https://roboassist.github.io/">
+      <video playsinline autoplay loop muted src="assets/video/interactive_3x.mp4" poster="assets/img/research/intention_web.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    </a>
+  </div>
+
+  <!-- 右侧：论文信息 -->
+  <div style="flex: 1;">
+    <p><a href="https://roboassist.github.io/" id="RoboAssist">
+      <strong>RoboAssist: Interactive Human–Humanoid Planning for Long-Horizon Surgical Assistance</strong></a><br>
+      <!-- <strong>Jin Wang</strong>, Kim Tien Ly, Jacques Cloete, Nikos Tsagarakis, Ioannis Havoutis<br> -->
+      <em>Arxiv</em>
+    </p>
+
+    <p>
+      <a href="https://roboassist.github.io/">webpage</a> |
+      <a href="https://arxiv.org/pdf/2609.39384">pdf</a> |
+      <a href="https://arxiv.org/abs/2609.39384">arXiv</a> |
+      <a href="https://roboassist.github.io/">video</a>
+    </p>
+
+  </div>
+</div>
+
 <!-- VLP -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   
