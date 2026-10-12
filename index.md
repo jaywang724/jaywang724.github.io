@@ -20,6 +20,8 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 
 
 ## News 📰
+- [Mar, 2026] 🎉 I am glad to serve as an Associate Editor of IROS 2026.
+- [Feb, 2026] I have defended my PhD thesis!🎉
 - [Jul, 2025] I'm starting a new position as Visiting Researcher at [Oxford Robotics Institute](https://ori.ox.ac.uk/), University of Oxford.🧑🏼‍🎓
 - [May, 2025] Our IROS 2025 Workshop proposal [Embodied AI and Robotics for Future Scientific Discovery](https://airobot4sci.github.io/) has been accepted!🎉
 - [Nov, 2024] One paper accepted by [WCBM Workshop](https://wcbm-workshop.github.io/) at CoRL 2024. 📃
